@@ -1,0 +1,10 @@
+{
+  "name": "pick-require",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "underscore":"1.8.2",
+    "glob":"5.0.10",
+    "resolve":"1.1.6"
+  }
+}
